@@ -81,6 +81,7 @@ $ns at 8.0 "finish"
 $ns run
  
 # OUTPUT
+![Uploading image.png…]()
 
 
 
