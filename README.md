@@ -81,7 +81,8 @@ $ns at 8.0 "finish"
 $ns run
  
 # OUTPUT
-![Uploading image.png…]()
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/930b427b-1d94-4d52-b5c4-4501693e1e67" />
+
 
 
 
